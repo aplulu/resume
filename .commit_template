@@ -1,0 +1,21 @@
+
+
+#### Emoji Prefix ####
+# 🐛 :bug:              バグ修正
+# 🎂 :birthday:         初めてのコミット
+# 🎉 :tada:             記念すべき変更
+# ✨ :sparkles:         新機能
+# 👍 :+1:               改善
+# ♻ :recycle:           リファクタリング
+: 🔪 :hocho:            削除
+# ✅ :white_check_mark: テスト
+# 💚 :green_heart:      CI/CD
+# 👕 :shirt:            Lint
+# 📚 :books:            ドキュメント
+# 🔖 :bookmark:         バージョンタグ
+# 🚧 :construction:     WIP
+
+#### Format ####
+# :emoji: Subject
+#
+# Message

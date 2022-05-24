@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "Aplulu's resume",
+  "author": "Aplulu",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": "https://github.com/aplulu/resume",
+  "scripts": {
+    "pdf": "ts-node index.ts"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.1.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.0",
+    "typescript": "^4.6.4"
+  }
+}
