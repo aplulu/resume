@@ -3,7 +3,7 @@ name: main
 on:
   push:
     branches:
-      - "**"
+      - '**'
 
 jobs:
   build:
@@ -15,13 +15,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: yarn
+          cache: npm
       - name: Install Dependencies
-        run: yarn install
+        run: npm install
       - name: Install Fonts
         run: sudo apt install fonts-ipafont fonts-ipaexfont
       - name: Build PDF
-        run: yarn pdf
+        run: npm run pdf
       - name: Upload PDF
         uses: actions/upload-artifact@v3
         with:
