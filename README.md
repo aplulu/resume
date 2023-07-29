@@ -21,8 +21,10 @@
 
 ## 興味のある分野
 
-- VRを活用した仮想空間の開発
-- GraphQLやOpenAPIを使ったWeb APIの設計と実装
+- xRを活用した仮想空間の開発
+- バーチャルライブサービスの開発
+- ユーザ間でコミュニケーションが発生するサービスの開発
+- 大規模サービスの開発と設計
 
 ## 個人制作物
 
@@ -49,7 +51,7 @@
 | 項目               | 内容                                                                                                                    |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | プログラミング言語 | Go (7年), TypeScript (3年), JavaScript (8年), Java (2年), C# (Unityで少し)                                              |
-| フレームワーク     | React, Next.js, Vue.js 2/3, Vuex, Nuxt.js                                                                               |
+| フレームワーク     | React, Next.js, Vue.js 2/3, Nuxt.js                                                                               |
 | データベース       | MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Spanner                                                                      |
 | API                | OpenAPI/Swagger, gRPC/Protocol Buffers, Connect, GraphQL (個人開発)                                                     |
 | インフラ           | Kubernetes (オンプレ/GKE/OKE/LKEなど), Docker, Terraform                                                                |
