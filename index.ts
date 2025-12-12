@@ -7,6 +7,9 @@ const run = async () => {
     },
     {
       dest: 'README.pdf',
+      launch_options: {
+        args: ['--no-sandbox'],
+      },
     }
   ).catch(console.error);
 };
